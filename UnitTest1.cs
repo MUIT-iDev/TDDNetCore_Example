@@ -26,7 +26,7 @@ namespace TDDNetCore_Example
         {
             var result = Add(500, 691);
 
-            Assert.Equal(1191, result);
+            Assert.Equal(119, result);
         }
 
         public int Add(int a, int b)
