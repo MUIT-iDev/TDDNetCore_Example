@@ -1,0 +1,14 @@
+d:\visual2017WSP_NEW\TDDNetCore_Example\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+d:\visual2017WSP_NEW\TDDNetCore_Example\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+d:\visual2017WSP_NEW\TDDNetCore_Example\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\visual2017WSP_NEW\TDDNetCore_Example\bin\Debug\netcoreapp2.2\TDDNetCore_Example.deps.json
+D:\visual2017WSP_NEW\TDDNetCore_Example\bin\Debug\netcoreapp2.2\TDDNetCore_Example.runtimeconfig.json
+D:\visual2017WSP_NEW\TDDNetCore_Example\bin\Debug\netcoreapp2.2\TDDNetCore_Example.runtimeconfig.dev.json
+d:\visual2017WSP_NEW\TDDNetCore_Example\bin\Debug\netcoreapp2.2\TDDNetCore_Example.dll
+d:\visual2017WSP_NEW\TDDNetCore_Example\bin\Debug\netcoreapp2.2\TDDNetCore_Example.pdb
+d:\visual2017WSP_NEW\TDDNetCore_Example\obj\Debug\netcoreapp2.2\TDDNetCore_Example.csprojAssemblyReference.cache
+d:\visual2017WSP_NEW\TDDNetCore_Example\obj\Debug\netcoreapp2.2\TDDNetCore_Example.csproj.CoreCompileInputs.cache
+d:\visual2017WSP_NEW\TDDNetCore_Example\obj\Debug\netcoreapp2.2\TDDNetCore_Example.AssemblyInfoInputs.cache
+d:\visual2017WSP_NEW\TDDNetCore_Example\obj\Debug\netcoreapp2.2\TDDNetCore_Example.AssemblyInfo.cs
+d:\visual2017WSP_NEW\TDDNetCore_Example\obj\Debug\netcoreapp2.2\TDDNetCore_Example.dll
+d:\visual2017WSP_NEW\TDDNetCore_Example\obj\Debug\netcoreapp2.2\TDDNetCore_Example.pdb
