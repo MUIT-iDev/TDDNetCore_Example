@@ -5,34 +5,18 @@ namespace TDDNetCore_Example
 {
     public class UnitTest1
     {
-        /*
-        [Fact]
-        public void ValidateCalculatroMethodAdd()
-        {
-            var result = Add(5, 6);
-
-            Assert.Equal(11, result);
-        }
-
-        [Fact]
-        public void ValidateCalculatroMethodAdd2Digit()
-        {
-            var result = Add(50, 69);
-
-            Assert.Equal(119, result);
-        }
-
-        [Fact]
+        //Fact can not have parametor
+        [Fact(DisplayName="check add on 3 digit number")]
         public void ValidateCalculatroMethodAdd3Digit()
         {
             var result = Add(500, 691);
 
             Assert.Equal(1191, result);
         }
-        */
 
-        [Theory]
-        [InlineData(5, 6, 11)]
+        //Theory add parameter
+        [Theory(DisplayName="check add")]
+        [InlineData(5, 6, 1)]
         [InlineData(50, 69, 119)]
         [InlineData(500, 691, 1191)]
         public void ValidateCalculatroMethodAdd(int frist, int second, int expected) {
